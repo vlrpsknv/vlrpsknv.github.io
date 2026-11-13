@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime.WkwZ5CU-.js";import{t}from"./react.CmU_e8vp.js";var n=e(t(),1);function r(e){let t=(0,n.useRef)(null);return t.current===null&&(t.current=e()),t.current}var i=(0,n.createContext)({transformPagePoint:e=>e,isStatic:!1,reducedMotion:`never`});export{r as n,i as t};
